@@ -14,8 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/chhinvisal21?mibextid=LQQJ4d" 
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sall" height="30" width="40" /></a>
+<a href="https://www.facebook.com/chhinvisal21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Swayy" height="30" width="40" /></a>
 <a href="https://instagram.com/_chh.visal.chh_?igshid=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sall" height="30" width="40" /></a>
 </p>
 
