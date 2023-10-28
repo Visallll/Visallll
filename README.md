@@ -1,16 +1,16 @@
 <h1 align="center"> Hello 👋, I'm Visall.</h1>
 <h3 align="center">Currently,I'm 3nd-year student at ITC- AI & Machine Learning.</h3>
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="300" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets-global.website-files.com%2F5c19100c2b50073e6ee69da1%2F60d35967a853a1b14851703b_All%2520the%2520data%2520(1).gif&tbnid=LdF0RB6zYZ8nuM&vet=12ahUKEwi0_b6m_piCAxUTQWwGHZWRCCUQMygeegUIARDMAQ..i&imgrefurl=https%3A%2F%2Fwww.onebridge.tech%2Fpost%2Fwhat-is-a-data-analyst-and-should-i-hire-one&docid=xLW_H5EqWMOzQM&w=500&h=500&q=data%20science%20GIF&ved=2ahUKEwi0_b6m_piCAxUTQWwGHZWRCCUQMygeegUIARDMAQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Visallll&label=Profile%20views&color=0e75b6&style=flat" alt="Soknan" /> </p>
 
 - 🎓Currently pursuing a degree in Data Science.
 
-- 🌱 I’m currently learning Data Analytics and basic of Machine Learning.
+- 🌱 I’m currently learning Data Analytics.
 
 - 💬 Ask me about python
 
-- 📫 How to reach me koumsoknan096@gmail.com
+- 📫 How to reach me visalprogames@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
