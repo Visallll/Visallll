@@ -1,6 +1,6 @@
 <h1 align="center"> Hello 👋, I'm Visall.</h1>
 <h3 align="center">Currently,I'm 3nd-year student at ITC- AI & Machine Learning.</h3>
-<img align="right" alt="Coding" width="300" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets-global.website-files.com%2F5c19100c2b50073e6ee69da1%2F60d35967a853a1b14851703b_All%2520the%2520data%2520(1).gif&tbnid=LdF0RB6zYZ8nuM&vet=12ahUKEwi0_b6m_piCAxUTQWwGHZWRCCUQMygeegUIARDMAQ..i&imgrefurl=https%3A%2F%2Fwww.onebridge.tech%2Fpost%2Fwhat-is-a-data-analyst-and-should-i-hire-one&docid=xLW_H5EqWMOzQM&w=500&h=500&q=data%20science%20GIF&ved=2ahUKEwi0_b6m_piCAxUTQWwGHZWRCCUQMygeegUIARDMAQ">
+<img align="right" alt="Coding" width="300" src=""C:\Users\LENOVO\Pictures\images.png"">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Visallll&label=Profile%20views&color=0e75b6&style=flat" alt="Soknan" /> </p>
 
