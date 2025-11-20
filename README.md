@@ -1,7 +1,7 @@
 <h1 align="center">Heyoo 👋, I'm Mr. CHHIN Visal</h1>
 <h3 align="center">Data Science 5th-year Student | AI & Machine Learning Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif&tbnid=jhcsVqEFSxZJUM&vet=10CAUQxiAoAWoXChMIwLr2qtD_kAMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fmdazfar2%2FCool-GIFs-For-GitHub&docid=nxNmoQzSx2czBM&w=800&h=600&q=gifs%20for%20github&ved=0CAUQxiAoAWoXChMIwLr2qtD_kAMVAAAAAB0AAAAAEAc)">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Visallll&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
