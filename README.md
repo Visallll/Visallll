@@ -1,9 +1,9 @@
 <h1 align="center">Heyoo 👋, I'm Mr. CHHIN Visal</h1>
 <h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://www.linkedin.com/in/sonu-kumar-a13235244/"> CHHIN Visal 💻</a>!
+  Welcome there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://www.linkedin.com/in/sonu-kumar-a13235244/"> CHHIN Visal 💻</a>!
 </h2> 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
-<h3 align="center">Data Science 5th-year Student | AI & Machine Learning Enthusiast</h3>
+<h3 align="center">Data Science 5th-year Student | Data Analysis, Data Entry, Data Base Magerment, AI & Machine Learning Enthusiast</h3>
 
 
 <p align="left"> 
