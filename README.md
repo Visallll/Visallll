@@ -1,5 +1,5 @@
 <h1 align="center">Heyoo 👋, I'm Mr. CHHIN Visal</h1>
-<img align="center" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif](https://gist.github.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471)">
+<img align="center" alt="Coding" width="400" <script src="https://gist.github.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471.js"></script>>
 <h3 align="center">Data Science 5th-year Student | AI & Machine Learning Enthusiast</h3>
 
 
